@@ -11,6 +11,7 @@ Projekt ten jest modyfikacją dla wyświetlacza RTI w volvo, pozwala on na dodan
 - Automatyczne otwieranie i zamykanie ekranu po podłączeniu AndroidAuto
 - W moim przypadku to dostarczyć dobre zasilanie do raspberry, obecnie jest zasilane z transmitera
 - Zamontować to w porządnym miejscu - leży teraz w schowku
+- Dołożyć kamerę cofania
 ## Potrzebny sprzęt
 - Raspberry Pi 3 B+ - można użyć innego, ja zwyczajnie działałem na tym
 - Arduino NANO
