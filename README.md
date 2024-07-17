@@ -53,7 +53,7 @@ W zasadzie na tym etapie wystarczy podłączyć wszystko w samochodzie, warto pa
 Rozdzielczość nie powala, ale sam ekran RTI najlepszej rozdzielczości nie ma.
 W lewym dolnym rogu jest zębatka, należy wejść do ustawień i włączyć "Show cursor" Tak aby mieć możliwość klikania w android auto, w innym przypadku nawet nie jesteśmy w stanie podłączyć telefonu do android auto.
 
-
+W zasdzie podejrzewam że dla CarPlay też by się znalazł soft na raspberry. 
 
 ## Ciekawostka
 Ekran RTI jest tak skonstruowany jeżeli dostanie sygnał analogowy jest w stanie go wyświetlić, nawet xboxa 360 podłączyłem do niego 
